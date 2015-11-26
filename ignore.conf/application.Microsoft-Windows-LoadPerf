@@ -1,0 +1,1 @@
+SourceName = 'Microsoft-Windows-LoadPerf' AND ( EventCode = 1000 OR EventCode = 1001 )

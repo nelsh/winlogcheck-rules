@@ -1,0 +1,1 @@
+SourceName = 'Microsoft-Windows-Security-SPP' AND ( EventCode = 900 OR EventCode = 902  OR EventCode = 903 OR EventCode = 1003  OR EventCode = 1066  OR EventCode = 16384 )

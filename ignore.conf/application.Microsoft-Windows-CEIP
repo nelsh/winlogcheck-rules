@@ -1,0 +1,1 @@
+SourceName = 'Microsoft-Windows-CEIP' AND EventCode = 1005

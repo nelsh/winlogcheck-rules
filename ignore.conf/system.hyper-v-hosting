@@ -1,0 +1,3 @@
+( SourceName = 'disk' AND EventCode = 157 )
+	OR ( SourceName = 'partmgr' AND EventCode = 58 )
+	OR ( SourceName = 'Microsoft-Windows-Ntfs' AND EventCode = 98 )
