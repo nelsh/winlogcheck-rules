@@ -1,1 +1,5 @@
-SourceName = 'ESENT' AND ( EventCode = 102 OR EventCode = 103 OR EventCode = 105 OR EventCode = 325 OR EventCode = 326 OR EventCode = 327 OR EventCode = 736 OR EventCode = 737 )
+SourceName = 'ESENT' AND ( 
+	EventCode = 102 OR EventCode = 103 OR EventCode = 105 OR 
+	EventCode = 325 OR EventCode = 326 OR EventCode = 327 OR 
+	EventCode = 736 OR EventCode = 737 OR EventCode = 738
+)
